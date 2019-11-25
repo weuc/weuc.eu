@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% assign sections = site.sections | sort: 'order' %}
+{% for section in sections %}
+  {% if section.template != null %}
+    {% include {{ section.template }} %}
+  {% else %}
+    {% include empty.html %}
+  {% endif %}
+{% endfor %}
+
+

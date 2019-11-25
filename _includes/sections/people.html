@@ -1,0 +1,32 @@
+    <!--==========================
+      Speakers Section
+    ============================-->
+    <section id="people" class="wow fadeInUp">
+      <div class="container">
+        <div class="section-header">
+          <h2>Meet great people</h2>
+          <p>Here's the event team and some interesting attendees</p>
+        </div>
+
+        <div class="row">
+
+          {% for person in section.people %}
+          <div class="col-lg-4 col-md-6">
+            <div class="people">
+              <img src="assets/img/people/{{ person.image }}" alt="{{ person.name }}" class="assets/img-fluid">
+              <div class="details">
+                <h3>{{ person.name }}</h3>
+                <p>{{ person.title }}</p>
+                <div class="social">
+                  <a href="{{ person.twitter }}"><i class="fa fa-twitter"></i></a>
+                  <a href="{{ person.facebook }}"><i class="fa fa-facebook"></i></a>
+                  <a href="{{ person.linkedin }}"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+
+      </div>
+
+    </section>

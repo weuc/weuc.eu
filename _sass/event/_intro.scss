@@ -7,7 +7,7 @@
 #intro {
   width: 100%;
   height: 100vh;
-  background: url(../img/intro-bg.jpg) top center;
+  background: url('../img/oscar-nord-757413-unsplash.jpg') top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -18,7 +18,7 @@
  
   &:before {
     content: "";
-    background: rgba($heading-color, 0.8);
+    background: rgba($heading-color, 0.4);
     position: absolute;
     bottom: 0;
     top: 0;
