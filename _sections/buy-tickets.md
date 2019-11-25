@@ -1,6 +1,6 @@
 ---
 order: 3
 navtitle: Buy Tickets
-active: true
+active: false
 template: sections/buy-tickets.html
 ---
