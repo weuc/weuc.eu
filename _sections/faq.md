@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 8
 navtitle: FAQ
 active: true
 template: sections/faq.html
