@@ -1,5 +1,6 @@
 ---
 order: 3
+navtitle: People
 template: sections/people.html
 people:
   - name: Thomas Lohner

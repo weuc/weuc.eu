@@ -1,0 +1,32 @@
+<!--==========================
+Header
+============================-->
+<header id="header">
+  <div class="container">
+
+    <div id="logo" class="pull-left">
+      <!-- Uncomment below if you prefer to use a text logo -->
+      <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+      <a href="#intro" class="scrollto"><img src="assets/img/logo.png" alt="" title=""></a>
+    </div>
+
+    <nav id="nav-menu-container">
+      <ul class="nav-menu">
+        {% assign sections = site.sections | sort: 'order' %}
+        {% for section in sections %}
+          {% if section.navtitle == nil %}
+            {% continue %}
+          {% endif %}
+          {% if section.slug == "intro" %}
+            <li class="menu-active"><a href="#{{ section.slug }}">{{ section.navtitle }}</a></li>
+          {% elsif section.slug == "buy-tickets" %}
+            <li class="buy-tickets"><a href="#{{ section.slug }}">{{ section.navtitle }}</a></li>
+          {% else %}
+            <li><a href="#{{ section.slug }}">{{ section.navtitle }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav><!-- #nav-menu-container -->
+
+  </div>
+</header><!-- #header -->
