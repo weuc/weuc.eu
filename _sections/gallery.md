@@ -13,4 +13,5 @@ pictures:
   - gallery/gallery5.jpg
   - gallery/gallery6.jpg
   - gallery/gallery7.jpg
+  - gallery/gallery8.jpg
 ---
