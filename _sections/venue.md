@@ -8,12 +8,12 @@ venue-name: Innside Palma Bosque
 venue-description: >
   This urban resort with a modern and welcoming atmosphere offers perfectly equipped rooms with excellent views of the cathedral, Palma Bay or the pool. The Hotel offers: Free Wi-Fi; outdoor and indoor swimming pool; sauna; a modern gym and a sun terrace.
 pictures:
-  - hotel1.jpg
-  - hotel2.jpg
-  - hotel3.jpg
-  - hotel4.jpg
-  - hotel5.jpg
-  - hotel7.jpg
-  - hotel8.jpg
-  - hotel9.jpg
+  - venue/hotel1.jpg
+  - venue/hotel2.jpg
+  - venue/hotel3.jpg
+  - venue/hotel4.jpg
+  - venue/hotel5.jpg
+  - venue/hotel7.jpg
+  - venue/hotel8.jpg
+  - venue/hotel9.jpg
 ---
