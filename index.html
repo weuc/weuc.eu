@@ -3,7 +3,8 @@ layout: default
 ---
 {% assign sections = site.sections | sort: 'order' %}
 {% for section in sections %}
-  {% if section.template != null %}
+
+  {% if section.template != null and section.active == true %}
     {% include {{ section.template }} %}
   {% else %}
     {% include empty.html %}

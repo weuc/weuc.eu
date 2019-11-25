@@ -14,7 +14,7 @@ Header
       <ul class="nav-menu">
         {% assign sections = site.sections | sort: 'order' %}
         {% for section in sections %}
-          {% if section.navtitle == nil %}
+          {% if section.navtitle == nil or section.active != true %}
             {% continue %}
           {% endif %}
           {% if section.slug == "intro" %}

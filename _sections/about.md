@@ -1,6 +1,7 @@
 ---
 order: 2
 navtitle: About
+active: true
 where: Meliá Hotel Innside Bosque<br>Palma de Mallorca<br>Spain
 when: Friday to Sunday<br>4-6 September 2020
 template: sections/about.html

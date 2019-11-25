@@ -1,6 +1,7 @@
 ---
 order: 4
 navtitle: FAQ
+active: true
 template: sections/faq.html
 faq:
   - question: What is an Unconference?
