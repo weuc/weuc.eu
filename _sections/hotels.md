@@ -1,6 +1,6 @@
 ---
 order: 4
 navtitle: Hotels
-active: true
+active: false
 template: sections/hotels.html
 ---
