@@ -1,6 +1,6 @@
 ---
 order: 12
 navtitle: Contact
-active: true
+active: false
 template: sections/contact.html
 ---
