@@ -5,12 +5,12 @@ active: true
 template: sections/about.html
 
 where: |
-  Meliá Hotel Innside Bosque\
-  Palma de Mallorca\
+  Meliá Hotel Innside Bosque  
+  Palma de Mallorca  
   Spain
 
 when: |
-  Friday to Sunday\
+  Friday to Sunday  
   4-6 September 2020
 
 about: |

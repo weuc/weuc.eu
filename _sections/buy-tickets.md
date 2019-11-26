@@ -1,5 +1,5 @@
 ---
-order: 3
+order: 4
 navtitle: Buy Tickets
 active: true
 template: sections/buy-tickets.html
