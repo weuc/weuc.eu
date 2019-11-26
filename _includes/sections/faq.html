@@ -17,7 +17,7 @@
               <a data-toggle="collapse" class="collapsed" href="#faq{{ forloop.index }}">{{ item.question }} <i class="fa fa-minus-circle"></i></a>
               <div id="faq{{ forloop.index }}" class="collapse" data-parent="#faq-list">
                 <p>
-                {{ item.answer }}
+                {{ item.answer | markdownify }}
                 </p>
               </div>
             </li>
