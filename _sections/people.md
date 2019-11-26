@@ -1,5 +1,5 @@
 ---
-order: 5
+order: 6
 navtitle: People
 active: true
 template: sections/people.html
