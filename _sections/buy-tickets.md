@@ -7,7 +7,7 @@ tickets:
   - name: Early Bird Ticket
     price: €133.70
     active: true
-    tito-release: ziire3xlwys
+    tito-release: evkuohegn2u
     included:
       - Available until <b>12/31/2019</b>
       - Welcome Drink Friday Evening

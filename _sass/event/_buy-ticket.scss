@@ -51,6 +51,7 @@
       background-color: $accent-color;
       border: 0;
       color: #fff;
+      cursor: pointer;
       &:hover {
         background-color: darken($accent-color, 10%);
       }
