@@ -11,55 +11,23 @@
 
         <div class="row">
 
+          {% for hotel in section.hotels %}
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="assets/img/hotels/1.jpg" alt="Hotel 1" class="assets/img-fluid">
+                <img src="assets/img/hotels/{{ hotel.image }}" alt="{{ hotel.name }}" class="assets/img-fluid">
               </div>
-              <h3><a href="#">Hotel 1</a></h3>
+              <h3><a href="{{ hotel.link }}">{{ hotel.name }}</a></h3>
               <div class="stars">
+              {% for i in (1..hotel.stars) %}
                 <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
+              {% endfor %}
               </div>
-              <p>0.4 Mile from the Venue</p>
+              
+              <p>{{ hotel.distance }}</p>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="assets/img/hotels/2.jpg" alt="Hotel 2" class="assets/img-fluid">
-              </div>
-              <h3><a href="#">Hotel 2</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star-half-full"></i>
-              </div>
-              <p>0.5 Mile from the Venue</p>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6">
-            <div class="hotel">
-              <div class="hotel-img">
-                <img src="assets/img/hotels/3.jpg" alt="Hotel 3" class="assets/img-fluid">
-              </div>
-              <h3><a href="#">Hotel 3</a></h3>
-              <div class="stars">
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-                <i class="fa fa-star"></i>
-              </div>
-              <p>0.6 Mile from the Venue</p>
-            </div>
-          </div>
+          {% endfor %}
 
         </div>
       </div>
