@@ -10,12 +10,15 @@ people:
     twitter: https://twitter.com/thomaslohner
     facebook: https://www.facebook.com/ThomasLohner
     linkedin: https://www.linkedin.com/in/thomas-lohner/
+    github: https://github.com/ThomasLohner
   - name: Maria Adler
     title: Project Manager @ Portaltech Reply GmbH
     image: maria.jpg
     twitter: https://twitter.com/madler1989
-    facebook: 
+    facebook: https://www.facebook.com/maria.adler.1989
     linkedin: https://www.linkedin.com/in/maria-adler-0653888a/
+    github: https://github.com/MaryEagle
+    instagram: https://www.instagram.com/maryadler89/
   - name: Judith Andresen
     title: Agile Coach @ BERATUNG JUDITH ANDRESEN
     image: judith.jpg
@@ -29,6 +32,8 @@ people:
     facebook: https://www.facebook.com/eddie.jaoude
     linkedin: https://www.linkedin.com/in/eddiejaoude/
     youtube: https://www.youtube.com/eddiejaoude?sub_confirmation=1
+    github: https://github.com/eddiejaoude
+    instagram: https://www.instagram.com/eddiejaoude/
   - name: Daniel Kröger
     image: daniel.jpg
   - name: Fabian Blechschmidt
