@@ -18,9 +18,10 @@
                 <h3>{{ person.name }}</h3>
                 <p>{{ person.title }}</p>
                 <div class="social">
-                  <a href="{{ person.twitter }}"><i class="fa fa-twitter"></i></a>
-                  <a href="{{ person.facebook }}"><i class="fa fa-facebook"></i></a>
-                  <a href="{{ person.linkedin }}"><i class="fa fa-linkedin"></i></a>
+                  {% if person.twitter %}<a href="{{ person.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
+                  {% if person.facebook %}<a href="{{ person.facebook }}"><i class="fa fa-facebook"></i></a>{% endif %}
+                  {% if person.linkedin %}<a href="{{ person.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
+                  {% if person.youtube %} <a href="{{ person.youtube }}"><i class="fa fa-youtube"></i></a>{% endif %}
                 </div>
               </div>
             </div>
