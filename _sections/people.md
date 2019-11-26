@@ -29,4 +29,19 @@ people:
     facebook: https://www.facebook.com/eddie.jaoude
     linkedin: https://www.linkedin.com/in/eddiejaoude/
     youtube: https://www.youtube.com/eddiejaoude?sub_confirmation=1
+  - name: Daniel Kröger
+    image: daniel.jpg
+  - name: Fabian Blechschmidt
+    image: fabian.jpg
+    twitter: https://twitter.com/fabian_ikono
+  - name: Eva Haag
+    title: Partner Manager @ SCaleCommerce GmbH
+    image: eva.jpg
+    linkedin: https://www.linkedin.com/in/eva-maria-haag-250a1183/
+    facebook: https://www.facebook.com/evamaria.haag
+  - name: Lars Jankowsky
+    title: Founder @ nfq.asia
+    image: lars.jpg
+    facebook: https://www.facebook.com/dodgeris
+    linkedin: https://www.linkedin.com/in/larsjankowfsky/
 ---
