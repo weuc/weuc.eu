@@ -1,5 +1,5 @@
 ---
 order: 10
-active: false
+active: true
 template: sections/subscribe.html
 ---
