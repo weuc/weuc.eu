@@ -15,8 +15,8 @@ tickets:
       - Coffee Break during Conference
       - Lunch Break during Conference
       - Dinner on Saturday Evening
-    not-included:
-      - Workshop Access on Friday
+    #not-included:
+      #- Workshop Access on Friday
   - name: Personal Ticket
     price: €189
     active: true
@@ -29,7 +29,7 @@ tickets:
       - Dinner on Saturday Evening
     not-included:
       - Company pays for Ticket
-      - Workshop Access on Friday
+      #- Workshop Access on Friday
   - name: Company Ticket
     price: €289
     active: true
@@ -41,8 +41,8 @@ tickets:
       - Lunch Break during Conference
       - Dinner on Saturday Evening
       - Company pays for Ticket
-    not-included:
-      - Workshop Access on Friday
+    #not-included:
+      #- Workshop Access on Friday
   - name: Workshop
     active: false
     price: €69
