@@ -1,6 +1,6 @@
 ---
 order: 9
 navtitle: Sponsors
-active: false
+active: true
 template: sections/sponsors.html
 ---
