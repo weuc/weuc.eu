@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 navtitle: Hotels
 active: true
 template: sections/hotels.html

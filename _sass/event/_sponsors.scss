@@ -1,19 +1,19 @@
 // main: style.scss
 
 /*--------------------------------------------------------------
-# supporters Section
+# sponsors Section
 --------------------------------------------------------------*/
 
-#supporters {
+#sponsors {
   padding: 60px 0;
 
-  .supporters-wrap {
+  .sponsors-wrap {
     border-top: 1px solid lighten($heading-color, 85%);
     border-left: 1px solid lighten($heading-color, 85%);
     margin-bottom: 30px;
   }
 
-  .supporter-logo {
+  .sponsors-logo {
     padding: 30px;
     display: flex;
     justify-content: center;

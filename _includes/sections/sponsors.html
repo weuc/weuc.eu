@@ -1,65 +1,23 @@
-    <!--==========================
+<!--==========================
       Sponsors Section
     ============================-->
-    <section id="supporters" class="section-with-bg wow fadeInUp">
+<section id="sponsors" class="section-with-bg wow fadeInUp">
+  <div class="container">
+    <div class="section-header">
+      <h2>Sponsors</h2>
+    </div>
 
-      <div class="container">
-        <div class="section-header">
-          <h2>Sponsors</h2>
+    <div class="row no-gutters sponsors-wrap clearfix">
+      {% for sponsor in section.sponsors %}
+      <div
+        class="col-lg-{{ sponsor.width | times: 3 }} col-md-{{ sponsor.width | times: 4 }} col-xs-{{ sponsor.width | times: 6 }}">
+        <div class="sponsors-logo">
+          <a href="{{ sponsor.link }}" target="_blank"><img src="{{ sponsor.logo }}" class="img-fluid"
+              alt="{{ sponsor.name }}" /></a>
         </div>
-
-        <div class="row no-gutters supporters-wrap clearfix">
-
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/1.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/2.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/3.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/4.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/5.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-        
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/6.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/7.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-          
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="assets/img/supporters/8.png" class="assets/img-fluid" alt="">
-            </div>
-          </div>
-
-        </div>
-
       </div>
+      {% endfor %}
+    </div>
 
-    </section>
+  </div>
+</section>
