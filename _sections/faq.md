@@ -25,13 +25,16 @@ faq:
   - question: Who is organizing this event?
     answer: |
       Besides those friendly faces in the people section, this event operator is boot e.V. - Best of Open Technologies. The purpose of this association is the promotion of education, research and science in the field of open information and communication technology, in particular open source software. One main field is organizing several events within open source technologies. One event was the former PHPucEU – PHP Unconference Europe – and since 3 years we are happy to go together on with WEUC – Web Engineering Unconference. Our work in organization and other fields are unpaid and we do not have commercial targets.
-       - question: Will their be some spare time for sightseeing?
+
+  - question: Will their be some spare time for sightseeing?
     answer: |
        Palma is worth visiting, that´s a fact. Specially if you are into urban cities, spanish history and contemporary art - than you should plan one or two additional days. Once the unconferece has startet, time flies away and we assume that you will have not the time for sightseeing. 
-        - question: Will their be some time to go to the beach?
+
+  - question: Will their be some time to go to the beach?
     answer: |
        For a short swim in the sea, yes - for a long day at the beach, no. If you would love to combine beach and unconference, we recommend to plan one additional day.  
-       question: How do I stay informed about news and facts? 
+       
+  - question: How do I stay informed about news and facts? 
     answer: |
-       Time by time we send a newsletter. You can find the subsription fiel a below. But we are quite active on Facebook and Twitter. You can find links to our profil in the footer.  
+       Time to time we send a newsletter. You can find the subscription field below. But we are also quite active on Facebook and Twitter. You can find links to our profil in the footer.  
 ---
