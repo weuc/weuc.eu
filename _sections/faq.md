@@ -36,5 +36,5 @@ faq:
        
   - question: How do I stay informed about news and facts? 
     answer: |
-       Time to time we send a newsletter. You can find the subscription field below. But we are also quite active on Facebook and Twitter. You can find links to our profil in the footer.  
+       Time to time we send a newsletter. You can find the subscription field below. But we are also quite active on Facebook and Twitter. You can find links to our profile in the footer.  
 ---
