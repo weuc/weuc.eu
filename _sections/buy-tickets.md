@@ -4,19 +4,6 @@ navtitle: Buy Tickets
 active: true
 template: sections/buy-tickets.html
 tickets:
-  - name: Early Bird Ticket
-    price: €133.70
-    active: true
-    tito-release: evkuohegn2u
-    included:
-      - Available until <b>12/31/2019</b>
-      - Welcome Drink Friday Evening
-      - Conference Access on both Days<br>Saturday & Sunday
-      - Coffee Break during Conference
-      - Lunch Break during Conference
-      - Dinner on Saturday Evening
-    #not-included:
-      #- Workshop Access on Friday
   - name: Personal Ticket
     price: €189
     active: true
