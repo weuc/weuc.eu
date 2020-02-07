@@ -9,7 +9,19 @@ faq:
       It is all about the people. An unconference has no speakers, no call for papers and no agenda in advance. All is made by attendees. The unconference starts with a big welcome and introduction game. The next step is asking for session inputs and therefore topics are greatly varied.
 
       There are two kinds of sessions: interests and contributions. A contribution has a learning which is shared by the attendee. A smart topic which needs to be spread within community. An interest is a question by an attendee and the group is asked for their knowledge. It goes like this: You name the topic, we find the speaker. Topics can be hard like tech-subjects in engineering or developing. But also soft like awareness of team movements, fast moving world topics or personal development. We all learn from each other. One of the key parts of the unconference are coffee breaks. Those time in between sessions give the opportunity to continue conversations from sessions, exchange opinions and ideas. Conclusion of an unconference: Sharing is caring!
+      
+   - question: Why it takes place on an island? What about flight emissions? 
+    answer: |
+        We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsor Innogames we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
 
+  - question: Will there be workshops on Friday afternoon? 
+    answer: |
+       Yes, we will offer this time again workshops. Two sessions will deal with soft skill topics, another will be a 100 % tech workshop. If you want to join please plan your arrival on Thurday. Soon you can book your seat via our ticketing.
+       
+  - question: Does it fit if I bring my family with children?? 
+    answer: |
+       Naturally! Our event is open to the families of our community and looks forward to a lot of partners as well as children. We are happy to offer a supporting program if there are more than 10 partners and more than 10 children.
+          
   - question: Why only 100 attendees?
     answer: |
       The larger the number of participants, the more anonymous the event. That's exactly what we don't want. We want a family atmosphere where everyone can and should participate in his or her own way. 
