@@ -58,7 +58,7 @@ tickets:
       - Lunch break during conference
       - Dinner on Saturday evening
   - name: Food and drinks for partners
-    active: true
+    active: false
     price: €69
     tito-release: tyqrdqohbim
     included:
