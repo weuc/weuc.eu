@@ -8,9 +8,9 @@ faq:
     answer: |
       It is all about the people. An unconference has no speakers, no call for papers and no agenda in advance. All is made by attendees. The unconference starts with a big welcome and introduction game. The next step is asking for session inputs and therefore topics are greatly varied. There are two kinds of sessions: interests and contributions. A contribution has a learning which is shared by the attendee. A smart topic which needs to be spread within community. An interest is a question by an attendee and the group is asked for their knowledge. It goes like this: You name the topic, we find the speaker. Topics can be hard like tech-subjects in engineering or developing. But also soft like awareness of team movements, fast moving world topics or personal development. We all learn from each other. One of the key parts of the unconference are coffee breaks. Those time in between sessions give the opportunity to continue conversations from sessions, exchange opinions and ideas. Conclusion of an unconference: Sharing is caring!
       
-   - question: Why it takes place on an island? What about flight emissions? 
-     answer: |
-        We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsor Innogames we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
+  - question: Why it takes place on an island? What about flight emissions? 
+    answer: |
+       We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsor Innogames we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
 
   - question: Will there be workshops on Friday afternoon? 
     answer: |
