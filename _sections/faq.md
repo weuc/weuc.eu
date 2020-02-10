@@ -18,7 +18,7 @@ faq:
        
   - question: Does it fit if I bring my family with children?? 
     answer: |
-       Naturally! Our event is open to the families of our community and looks forward to a lot of partners as well as children. We are happy to offer a supporting program if there are more than 10 partners and more than 10 children.
+       Naturally! Our event is open to the families of our community and looks forward to a lot of partners as well as children. We are happy to offer a leisure program if there are more than 10 partners and more than 10 children.
           
   - question: Why only 100 attendees?
     answer: |
