@@ -24,11 +24,11 @@ hotels:
     image: hotel1.jpg
     stars: 4
     distance: 0,65km from the venue
-  - name: Hotel Feliz Palma de Mallorca
-    link: https://hotelfeliz.com/
+  - name: Hotel Bellver
+    link: https://www.melia.com/de/hotels/spanien/mallorca/hotel-palma-bellver/index.htm
     image: hotel2.jpg
     stars: 4
-    distance: 0,8km from the venue
+    distance: 0,6km from the venue
   - name: Hotel Araxa
     link: https://www.hotelaraxa.com/
     image: hotel3.jpg
