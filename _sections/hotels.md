@@ -21,17 +21,17 @@ hotels:
     distance: 0,5km from the venue
   - name: Meliá Palma Marina
     link: https://www.melia.com/de/hotels/spanien/mallorca/melia-palas-atenea/index.htm
-    image: hotel1.jpg
+    image: hotel4.jpg
     stars: 4
     distance: 0,65km from the venue
   - name: Hotel Bellver
     link: https://www.melia.com/de/hotels/spanien/mallorca/hotel-palma-bellver/index.htm
-    image: hotel2.jpg
+    image: hotel5.jpg
     stars: 4
     distance: 0,6km from the venue
   - name: Hotel Araxa
     link: https://www.hotelaraxa.com/
-    image: hotel3.jpg
+    image: hotel6.jpg
     stars: 3
     distance: 0,4km from the venue
 ---
