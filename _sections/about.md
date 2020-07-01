@@ -11,7 +11,7 @@ where: |
 
 when: |
   Friday to Sunday  
-  4-6 September 2020
+  3-5 September 2021
 
 about: |
   Catch up with an enthusiastic group of like minded people who are crazy about web technologies and performance. No matter if you are an Engineer, DevOps, Architect, Product Owner or Project Manager - everybody is welcome.
