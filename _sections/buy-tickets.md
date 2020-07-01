@@ -10,7 +10,7 @@ tickets:
     soldout: true
     tito-release: evkuohegn2u
     included:
-      - Available until <b>12/31/2019</b>
+      - Available until <b>12/31/2020</b>
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
       - Coffee break during conference
