@@ -7,8 +7,8 @@ tickets:
   - name: Early Bird Ticket
     price: €133.70
     active: true
-    soldout: true
-    tito-release: evkuohegn2u
+    soldout: false
+    tito-release: early-bird-ticket
     included:
       - Available until <b>12/31/2020</b>
       - Welcome drink Friday evening
@@ -34,7 +34,7 @@ tickets:
   - name: Company Ticket
     price: €289
     active: true
-    tito-release: ss1wzu3l7cm
+    tito-release: company-ticket
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
