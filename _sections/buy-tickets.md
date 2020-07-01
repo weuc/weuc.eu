@@ -21,7 +21,7 @@ tickets:
   - name: Personal Ticket
     price: €189
     active: true
-    tito-release: ziire3xlwys
+    tito-release: personal-ticket
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
