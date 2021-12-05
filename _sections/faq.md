@@ -12,7 +12,7 @@ faq:
     answer: |
        We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsoring package "CO2 Compensation" we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
 
-  - question: Does it fit if I bring my family with children?? 
+  - question: Does it fit if I bring my family with children? 
     answer: |
        Naturally! Our event is open to the families of our community and looks forward to a lot of partners as well as children. We are happy to offer a leisure program if there are more than 10 partners and more than 10 children.
           
