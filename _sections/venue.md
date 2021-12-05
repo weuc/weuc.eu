@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 7
 navtitle: Venue
 active: true
 template: sections/venue.html
