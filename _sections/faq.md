@@ -20,10 +20,6 @@ faq:
     answer: |
       The larger the number of participants, the more anonymous the event. That's exactly what we don't want. We want a family atmosphere where everyone can and should participate in his or her own way. 
 
-  - question: What's the difference between Community Ticket and Company Ticket?
-    answer: |
-      If you join as a private person, you are welcome to buy the Community Ticket. Companies need to buy Company Tickets. This helps us to make the self paid community tickets as affordable as possible.
-
   - question: Is food included?
     answer: |
       Absolutely YES! On Saturday and Sunday we will have lunch together and also snacks with fruits, cakes and coffee afterwards. On Saturday evening we organized a dinner for all of us. The only occasion where we don’ t serve food is the cocktail event on Friday evening.
