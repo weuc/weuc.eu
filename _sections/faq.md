@@ -10,13 +10,9 @@ faq:
       
   - question: Why it takes place on an island? What about flight emissions? 
     answer: |
-       We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsor Innogames we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
+       We are aware that we cause more emissions by traveling to Mallorca than if we were looking for a location on the mainland. But we have appreciated the Mediterranean atmosphere of the island for years and would not want to miss it. But through our sponsoring package "CO2 Compensation" we will offset a considerable part of the issue financially. We will let you know shortly which project we will support.
 
-  - question: Will there be workshops on Friday afternoon? 
-    answer: |
-       Yes, we will offer this time again workshops. Two sessions will deal with soft skill topics, another will be a 100 % tech workshop. If you want to join please plan your arrival on Thurday. Soon you can book your seat via our ticketing.
-       
-  - question: Does it fit if I bring my family with children?? 
+  - question: Does it fit if I bring my family with children? 
     answer: |
        Naturally! Our event is open to the families of our community and looks forward to a lot of partners as well as children. We are happy to offer a leisure program if there are more than 10 partners and more than 10 children.
           
@@ -24,13 +20,9 @@ faq:
     answer: |
       The larger the number of participants, the more anonymous the event. That's exactly what we don't want. We want a family atmosphere where everyone can and should participate in his or her own way. 
 
-  - question: What's the difference between Community Ticket and Company Ticket?
-    answer: |
-      If you join as a private person, you are welcome to buy the Community Ticket. Companies need to buy Company Tickets. This helps us to make the self paid community tickets as affordable as possible.
-
   - question: Is food included?
     answer: |
-      Absolutely YES! During the Workshops on Friday we will have some snacks and a sundowner in the evening. On Saturday and Sunday we will have lunch together and also snacks with fruits, cakes and coffee afterwards. On Saturday evening we organized a dinner for all of us. The only occasion where we don’ t serve food is the cocktail event on Friday evening.
+      Absolutely YES! On Saturday and Sunday we will have lunch together and also snacks with fruits, cakes and coffee afterwards. On Saturday evening we organized a dinner for all of us. The only occasion where we don’ t serve food is the cocktail event on Friday evening.
       
   - question: Who is organizing this event?
     answer: |
