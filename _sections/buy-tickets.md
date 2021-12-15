@@ -16,8 +16,6 @@ tickets:
       - Coffee break during conference
       - Lunch break during conference
       - Dinner on Saturday evening
-    #not-included:
-      #- Workshop access on Friday
   - name: Personal Ticket
     price: €189
     active: true
@@ -30,7 +28,6 @@ tickets:
       - Dinner on Saturday evening
     not-included:
       - Company pays for ticket
-      #- Workshop Access on Friday
   - name: Company Ticket
     price: €299
     active: true
@@ -42,8 +39,6 @@ tickets:
       - Lunch break during conference
       - Dinner on Saturday evening
       - Company pays for ticket
-    #not-included:
-      #- Workshop Access on Friday
   - name: Food and drinks for partners
     active: true
     price: €69
@@ -53,6 +48,12 @@ tickets:
       - Dinner on Saturday evening
     not-included:
       - Conference access on both Days<br>Saturday & Sunday
+  - name: Kids Ticket
+    active: true
+    price: Free
+    tito-release: zzsqpuzom64
+    included:
+      - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket. 
   - name: Workshop
     active: false
     price: €69
