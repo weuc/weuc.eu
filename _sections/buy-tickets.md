@@ -1,7 +1,7 @@
 ---
 order: 4
 navtitle: Buy Tickets
-active: false 
+active: true 
 template: sections/buy-tickets.html
 tickets:
   - name: Early Bird Ticket
