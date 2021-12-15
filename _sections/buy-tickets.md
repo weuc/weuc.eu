@@ -1,14 +1,14 @@
 ---
 order: 4
 navtitle: Buy Tickets
-active: false 
+active: true 
 template: sections/buy-tickets.html
 tickets:
   - name: Early Bird Ticket
     price: €133.70
     active: true
     soldout: false
-    tito-release: early-bird-ticket
+    tito-release: ipqjex9rlcw
     included:
       - Available until <b>12/31/2020</b>
       - Welcome drink Friday evening
@@ -21,7 +21,7 @@ tickets:
   - name: Personal Ticket
     price: €189
     active: true
-    tito-release: personal-ticket
+    tito-release: mxgto02uhqu
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
@@ -32,9 +32,9 @@ tickets:
       - Company pays for ticket
       #- Workshop Access on Friday
   - name: Company Ticket
-    price: €289
+    price: €299
     active: true
-    tito-release: company-ticket
+    tito-release: y9rmypy36bw
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
@@ -44,6 +44,15 @@ tickets:
       - Company pays for ticket
     #not-included:
       #- Workshop Access on Friday
+  - name: Food and drinks for partners
+    active: true
+    price: €69
+    tito-release: ekc-ljr7zla
+    included:
+      - Welcome drink Friday evening
+      - Dinner on Saturday evening
+    not-included:
+      - Conference access on both Days<br>Saturday & Sunday
   - name: Workshop
     active: false
     price: €69
@@ -57,15 +66,5 @@ tickets:
       - Coffee break during conference
       - Lunch break during conference
       - Dinner on Saturday evening
-  - name: Food and drinks for partners
-    active: false
-    price: €69
-    tito-release: tyqrdqohbim
-    included:
-      - Welcome drink Friday evening
-      - Dinner on Saturday evening
-    not-included:
-      - Conference access on both Days<br>Saturday & Sunday
-      
         
 ---
