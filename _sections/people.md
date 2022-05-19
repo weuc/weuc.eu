@@ -35,6 +35,9 @@ people:
     github: https://github.com/eddiejaoude
     instagram: https://www.instagram.com/eddiejaoude/
   - name: Daniel Kröger
+    title: System Administrator @ InnoGames GmbH 
+    twitter: https://twitter.com/kofrezo
+    github: https://github.com/kofrezo
     image: daniel.jpg
   - name: Fabian Blechschmidt
     image: fabian.jpg
