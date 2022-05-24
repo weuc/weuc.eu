@@ -12,7 +12,7 @@ people:
     linkedin: https://www.linkedin.com/in/thomas-lohner/
     github: https://github.com/ThomasLohner
   - name: Maria Adler
-    title: Project Manager @ Portaltech Reply GmbH
+    title: Project Manager @ YAA Yet Another Agency
     image: maria.jpg
     twitter: https://twitter.com/madler1989
     facebook: https://www.facebook.com/maria.adler.1989
