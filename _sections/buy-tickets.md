@@ -5,7 +5,7 @@ active: true
 template: sections/buy-tickets.html
 tickets:
   - name: SOLD OUT Early Bird Ticket
-    price: SOLD OUT €133.70
+    price: SOLD OUT 
     active: true
     soldout: false
     tito-release: ipqjex9rlcw
