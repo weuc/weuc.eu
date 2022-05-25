@@ -4,7 +4,7 @@ navtitle: Buy Tickets
 active: true 
 template: sections/buy-tickets.html
 tickets:
-  - name: Early Bird Ticket
+  - name: SOLD OUT Early Bird Ticket
     price: €133.70
     active: true
     soldout: false
