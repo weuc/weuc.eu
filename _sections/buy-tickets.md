@@ -4,7 +4,7 @@ navtitle: Buy Tickets
 active: true 
 template: sections/buy-tickets.html
 tickets:
-  - name: SOLD OUT Early Bird Ticket
+  - name: Early Bird Ticket
     price: SOLD OUT 
     active: true
     soldout: false
