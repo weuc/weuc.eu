@@ -4,7 +4,7 @@ navtitle: Buy Tickets
 active: true 
 template: sections/buy-tickets.html
 tickets:
- - name: Team Spirit Ticket
+  - name: Team Spirit Ticket
     price: €799
     active: true
     tito-release: team-spirit-4-people
