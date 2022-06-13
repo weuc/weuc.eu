@@ -4,18 +4,17 @@ navtitle: Buy Tickets
 active: true 
 template: sections/buy-tickets.html
 tickets:
-  - name: Early Bird Ticket
-    price: SOLD OUT 
+ - name: Team Spirit Ticket
+    price: €799
     active: true
-    soldout: false
-    tito-release: ipqjex9rlcw
+    tito-release: team-spirit-4-people
     included:
-      - Limited 
-      - Welcome drink Friday evening
-      - Conference access on both days<br>Saturday & Sunday
-      - Coffee break during conference
-      - Lunch break during conference
-      - Dinner on Saturday evening
+      - 3 x Welcome drink Friday evening
+      - 3 x Conference access on both days<br>Saturday & Sunday
+      - 3 x Coffee break during conference
+      - 3 x Lunch break during conference 
+      - 3 x Dinner on Saturday evening
+      - Company pays for ticket
       - Cancel for free until one week before
   - name: Personal Ticket
     price: €189
@@ -47,12 +46,25 @@ tickets:
     active: true
     tito-release: team-spirit-4-people
     included:
-      - Welcome drink Friday evening for three people 
-      - Conference access on both days<br>Saturday & Sunday three people 
-      - Coffee break during conference three people 
-      - Lunch break during conference three people 
-      - Dinner on Saturday evening three people 
+      - 3 x Welcome drink Friday evening
+      - 3 x Conference access on both days<br>Saturday & Sunday
+      - 3 x Coffee break during conference
+      - 3 x Lunch break during conference 
+      - 3 x Dinner on Saturday evening
       - Company pays for ticket
+      - Cancel for free until one week before
+  - name: Early Bird Ticket
+    price: SOLD OUT 
+    active: true
+    soldout: false
+    tito-release: ipqjex9rlcw
+    included:
+      - Limited 
+      - Welcome drink Friday evening
+      - Conference access on both days<br>Saturday & Sunday
+      - Coffee break during conference
+      - Lunch break during conference
+      - Dinner on Saturday evening
       - Cancel for free until one week before
   - name: Food and drinks for partners
     active: true
