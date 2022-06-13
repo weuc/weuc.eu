@@ -41,18 +41,6 @@ tickets:
       - Dinner on Saturday evening
       - Company pays for ticket
       - Cancel for free until one week before
-  - name: Team Spirit Ticket
-    price: €799
-    active: true
-    tito-release: team-spirit-4-people
-    included:
-      - 3 x Welcome drink Friday evening
-      - 3 x Conference access on both days<br>Saturday & Sunday
-      - 3 x Coffee break during conference
-      - 3 x Lunch break during conference 
-      - 3 x Dinner on Saturday evening
-      - Company pays for ticket
-      - Cancel for free until one week before
   - name: Early Bird Ticket
     price: SOLD OUT 
     active: true
