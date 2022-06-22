@@ -13,6 +13,10 @@ when: |
   Friday to Sunday  
   9-11 September 2022
 
+who: |
+  BOOT e.V.
+  A non profit Organization
+  
 about: |
   Catch up with an enthusiastic group of like minded people who are crazy about web technologies and performance. No matter if you are an Engineer, DevOps, Architect, Product Owner or Project Manager - everybody is welcome.
 
