@@ -52,4 +52,7 @@ people:
     image: lars.jpg
     facebook: https://www.facebook.com/dodgeris
     linkedin: https://www.linkedin.com/in/larsjankowfsky/
+  - name: Marco Klawonn
+    title: Partner @ Portaltech Reply GmbH
+    image: marco.jpg
 ---
