@@ -55,4 +55,10 @@ people:
   - name: Marco Klawonn
     title: Partner @ Portaltech Reply GmbH
     image: marco.jpg
+  - name: Ben Marks
+    title: Director Global Market Development @ Shopware AG
+    image: ben.jpg
+  - name: Sander Mangel
+    title: Technical Solutions Architect @ Shopware AG
+    image: sander.jpg
 ---
