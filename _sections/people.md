@@ -61,4 +61,7 @@ people:
   - name: Sander Mangel
     title: Technical Solutions Architect @ Shopware AG
     image: sander.jpg
+  - name: Joschua Ziethen
+    title: UX Designer @ YAA Yet Another Agency
+    image: joschua.jpg
 ---

@@ -25,11 +25,15 @@ sponsors:
     link: https://scale.sc
     width: 1
   - name: DashboardHub
-    logo: assets/img/sponsors/dashboardhub.png
+    logo: assets/img/sponsors/mxkmj.png
     link: https://dashboardhub.io
     width: 1
   - name: Beratung Judith Andresen
     logo: assets/img/sponsors/bja.png
     link: https://www.judithandresen.com
+    width: 1
+  - name: Storyblok
+    logo: assets/img/sponsors/storyblok.svg
+    link: https://https://www.storyblok.com
     width: 1
 ---
