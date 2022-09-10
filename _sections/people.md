@@ -1,7 +1,7 @@
 ---
 order: 3
 navtitle: People
-active: true
+active: false
 template: sections/people.html
 people:
   - name: Thomas Lohner
