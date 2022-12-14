@@ -1,7 +1,8 @@
 ---
 order: 4
 navtitle: Buy Tickets
-active: true 
+active: true
+titoEvent: phpuceu/web-engineering-unconference-2023
 template: sections/buy-tickets.html
 tickets:
   - name: Personal Ticket
@@ -30,7 +31,7 @@ tickets:
       - Company pays for ticket
       - Cancel for free until one week before
   - name: Team Spirit Ticket (buy 3!)
-    price: €799
+    price: €266.33 (x3)
     active: true
     tito-release: team-spirit-3-people
     included:
@@ -43,7 +44,7 @@ tickets:
       - Cancel for free until one week before
   - name: Food and drinks for partners
     active: true
-    price: €69
+    price: €89
     tito-release: food-drinks-for-your-partner
     included:
       - Welcome drink Friday evening
