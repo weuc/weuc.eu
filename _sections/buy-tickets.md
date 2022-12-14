@@ -54,13 +54,14 @@ tickets:
   - name: Kids Ticket
     active: true
     price: Free
-    tito-release: zzsqpuzom64
+    tito-release: kids-for-free
     included:
       - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket. 
   - name: Workshop
-    active: false
-    price: €69
-    tito-release: kids-for-free
+    active: true
+    price: COMING SOON
+    status: comingsoon
+    tito-release: workshop-afternoon-on-friday
     included:
       - Workshop access on Friday
       - Welcome drink Friday evening
