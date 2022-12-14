@@ -1,13 +1,13 @@
 ---
 order: 4
 navtitle: Buy Tickets
-active: false 
+active: true 
 template: sections/buy-tickets.html
 tickets:
   - name: Personal Ticket
     price: €189
     active: true
-    tito-release: mxgto02uhqu
+    tito-release: personal-ticket
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
@@ -20,7 +20,7 @@ tickets:
   - name: Company Ticket
     price: €299
     active: true
-    tito-release: y9rmypy36bw
+    tito-release: company-ticket
     included:
       - Welcome drink Friday evening
       - Conference access on both days<br>Saturday & Sunday
@@ -29,10 +29,10 @@ tickets:
       - Dinner on Saturday evening
       - Company pays for ticket
       - Cancel for free until one week before
-  - name: Team Spirit Ticket
+  - name: Team Spirit Ticket (buy 3!)
     price: €799
     active: true
-    tito-release: team-spirit-4-people
+    tito-release: team-spirit-3-people
     included:
       - 3 x Welcome drink Friday evening
       - 3 x Conference access on both days<br>Saturday & Sunday
@@ -41,23 +41,10 @@ tickets:
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
       - Cancel for free until one week before
-  - name: Early Bird Ticket
-    price: SOLD OUT 
-    active: true
-    soldout: false
-    tito-release: ipqjex9rlcw
-    included:
-      - Limited 
-      - Welcome drink Friday evening
-      - Conference access on both days<br>Saturday & Sunday
-      - Coffee break during conference
-      - Lunch break during conference
-      - Dinner on Saturday evening
-      - Cancel for free until one week before
   - name: Food and drinks for partners
     active: true
     price: €69
-    tito-release: ekc-ljr7zla
+    tito-release: food-drinks-for-your-partner
     included:
       - Welcome drink Friday evening
       - Dinner on Saturday evening
@@ -73,7 +60,7 @@ tickets:
   - name: Workshop
     active: false
     price: €69
-    tito-release: evkuohegn2u
+    tito-release: kids-for-free
     included:
       - Workshop access on Friday
       - Welcome drink Friday evening
