@@ -32,9 +32,9 @@
               {% if ticket.status == 'soldout' %}
               <button type="button" class="btn" style="background-color: #999999;">Sold out</button>
               {% elsif ticket.status == 'comingsoon' %}
-              <button type="button" class="btn" style="background-color: #999999;color: #101522;">Coming soon</button>
+              <button type="button" class="btn" style="background-color: #f6f7fd;color: #101522;">Coming soon</button>
               {% else %}
-              <tito-button event="{{ titoEvent }}" releases="{{ ticket.tito-release }}">Buy Now</tito-button>
+              <tito-button event="{{ section.titoEvent }}" releases="{{ ticket.tito-release }}">Buy Now</tito-button>
               <p><br/>We may cancel the event up to six weeks in advance (Corona).</p>
               {% endif %}
             </div>
