@@ -31,7 +31,7 @@
             <div class="text-center">
               {% if ticket.status == 'soldout' %}
               <button type="button" class="btn" style="background-color: #999999;">Sold out</button>
-              {% elseif ticket.status == 'comingsoon' %}
+              {% elsif ticket.status == 'comingsoon' %}
               <button type="button" class="btn" style="background-color: #f82249;">Coming soon</button>
               {% else %}
               <tito-button event="phpuceu/weuc2022" releases="{{ ticket.tito-release }}">Buy Now</tito-button>
