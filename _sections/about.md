@@ -11,7 +11,7 @@ where: |
 
 when: |
   Friday to Sunday  
-  21-23 September 2023
+  22-24 September 2023
 
 who: |
   BOOT e.V.
