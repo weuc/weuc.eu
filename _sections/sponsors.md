@@ -7,7 +7,7 @@ sponsors:
   - name: Shopware
     logo: assets/img/sponsors/shopware.png
     link: https://www.shopware.com
-    width: 2
+    width: 1
   - name: NFQ Asia
     logo: assets/img/sponsors/nfq.asia.png
     link: https://www.nfq.asia
@@ -16,10 +16,10 @@ sponsors:
     logo: assets/img/sponsors/innogames.png
     link: https://www.innogames.com
     width: 1
-  - name: econda
-    logo: assets/img/sponsors/econda.png
-    link: https://www.econda.de
-    width: 1
+#  - name: econda
+#    logo: assets/img/sponsors/econda.png
+#    link: https://www.econda.de
+#    width: 1
   - name: ScaleCommerce
     logo: assets/img/sponsors/scalecommerce.png
     link: https://scale.sc
@@ -28,12 +28,12 @@ sponsors:
     logo: assets/img/sponsors/mxkmj.png
     link: https://dashboardhub.io
     width: 1
-  - name: Beratung Judith Andresen
-    logo: assets/img/sponsors/bja.png
-    link: https://www.judithandresen.com
-    width: 1
-  - name: Storyblok
-    logo: assets/img/sponsors/storyblok.svg
-    link: https://https://www.storyblok.com
-    width: 1
+#  - name: Beratung Judith Andresen
+#    logo: assets/img/sponsors/bja.png
+#    link: https://www.judithandresen.com
+#    width: 1
+#  - name: Storyblok
+#    logo: assets/img/sponsors/storyblok.svg
+#    link: https://https://www.storyblok.com
+#    width: 1
 ---
