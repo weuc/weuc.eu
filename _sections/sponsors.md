@@ -1,7 +1,7 @@
 ---
 order: 5
 navtitle: Sponsors
-active: false
+active: true
 template: sections/sponsors.html
 sponsors:
   - name: Shopware
