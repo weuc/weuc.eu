@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 40px;
   text-align: center;
   border-radius: 50px;
-  right:15px;
+  right: 15px;
   bottom: 15px;
   transition: background 0.5s ease-in-out;
 
@@ -71,8 +71,8 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 6px;
   }
 
-  @media (max-width: 768px){
-   bottom: 15px;
+  @media (max-width: 768px) {
+    bottom: 15px;
   }
 
   &:focus {
@@ -111,7 +111,15 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     font-weight: 700;
     margin-bottom: 10px;
-  } 
+  }
+
+  h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 8px;
+  }
 
   p {
     text-align: center;

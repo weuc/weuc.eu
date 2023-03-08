@@ -36,4 +36,6 @@ sponsors:
 #    logo: assets/img/sponsors/storyblok.svg
 #    link: https://https://www.storyblok.com
 #    width: 1
+friends:
+    - IWD
 ---

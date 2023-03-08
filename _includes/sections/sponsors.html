@@ -2,22 +2,31 @@
       Sponsors Section
     ============================-->
 <section id="sponsors" class="section-with-bg wow fadeInUp">
-  <div class="container">
-    <div class="section-header">
-      <h2>Sponsors</h2>
-    </div>
-
-    <div class="row no-gutters sponsors-wrap clearfix">
-      {% for sponsor in section.sponsors %}
-      <div
-        class="col-lg-{{ sponsor.width | times: 3 }} col-md-{{ sponsor.width | times: 4 }} col-xs-{{ sponsor.width | times: 6 }}">
-        <div class="sponsors-logo">
-          <a href="{{ sponsor.link }}" target="_blank"><img src="{{ sponsor.logo }}" class="img-fluid"
-              alt="{{ sponsor.name }}" /></a>
+    <div class="container">
+        <div class="section-header">
+            <h2>Sponsors</h2>
         </div>
-      </div>
-      {% endfor %}
-    </div>
 
-  </div>
+        <div class="row no-gutters sponsors-wrap clearfix">
+            {% for sponsor in section.sponsors %}
+            <div class="col-lg-{{ sponsor.width | times: 3 }} col-md-{{ sponsor.width | times: 4 }} col-xs-{{ sponsor.width | times: 6 }}">
+                <div class="sponsors-logo">
+                    <a href="{{ sponsor.link }}" target="_blank">
+                        <img src="{{ sponsor.logo }}" class="img-fluid" alt="{{ sponsor.name }}"/>
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <div class="section-header">
+            <h3>Friends of WEuc</h3>
+        </div>
+        <ul class="row no-gutters friends-wrap clearfix">
+            {% for friend in section.friends %}
+            <li class="col-2">
+                {{ friend }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </section>
