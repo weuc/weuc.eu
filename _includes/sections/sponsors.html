@@ -18,6 +18,7 @@
             </div>
             {% endfor %}
         </div>
+        {% if section.friends and section.friends.size != 0 %}
         <div class="section-header">
             <h3>Friends of WEuc</h3>
         </div>
@@ -28,5 +29,6 @@
             </li>
             {% endfor %}
         </ul>
+        {% endif %}
     </div>
 </section>

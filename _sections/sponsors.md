@@ -37,6 +37,6 @@ sponsors:
 #    link: https://https://www.storyblok.com
 #    width: 1
 friends:
-    - IWD
+    - Yet. Another. Agency!
     - Winkelwagen 
 ---
