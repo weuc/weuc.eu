@@ -38,4 +38,5 @@ sponsors:
 #    width: 1
 friends:
     - IWD
+    - Winkelwagen 
 ---
