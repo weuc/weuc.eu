@@ -60,8 +60,8 @@ tickets:
       - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket. 
   - name: Workshop
     active: true
-    price: COMING SOON
-    status: comingsoon
+    price: €49
+#    status: comingsoon
     tito-release: workshop-afternoon-on-friday
     included:
       - Workshop access on Friday
