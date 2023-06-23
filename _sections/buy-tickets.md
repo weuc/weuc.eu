@@ -44,24 +44,6 @@ tickets:
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
       - Cancel for free until one week before
-  - name: Food and drinks for partners
-    titoEvent: phpuceu/web-engineering-unconference-2023
-    active: true
-    price: €89
-    tito-release: food-drinks-for-your-partner
-    included:
-      - Welcome drink Friday evening
-      - Dinner on Saturday evening
-      - Cancel for free until one week before
-    not-included:
-      - Conference access on both Days<br>Saturday & Sunday
-  - name: Kids Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2023
-    active: true
-    price: Free
-    tito-release: kids-for-free
-    included:
-      - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket. 
   - name: How to set up successful + inspiring meetings + workshops! - Judith
     titoEvent: phpuceu/ws-weuc2023
     tito-release: ws-judith-team-organization-for-absences-of-team-mates
@@ -94,5 +76,22 @@ tickets:
       - Coffee break during conference
       - Lunch break during conference
       - Dinner on Saturday evening
-        
+  - name: Food and drinks for partners
+    titoEvent: phpuceu/web-engineering-unconference-2023
+    active: true
+    price: €89
+    tito-release: food-drinks-for-your-partner
+    included:
+        - Welcome drink Friday evening
+        - Dinner on Saturday evening
+        - Cancel for free until one week before
+    not-included:
+        - Conference access on both Days<br>Saturday & Sunday
+  - name: Kids Ticket
+    titoEvent: phpuceu/web-engineering-unconference-2023
+    active: true
+    price: Free
+    tito-release: kids-for-free
+    included:
+        - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket.        
 ---
