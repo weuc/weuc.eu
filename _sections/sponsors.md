@@ -37,6 +37,8 @@ sponsors:
 #    link: https://https://www.storyblok.com
 #    width: 1
 friends:
+    - SUORA
+    - Vanilla Reply
     - Yet. Another. Agency!
     - Winkelwagen 
 ---
