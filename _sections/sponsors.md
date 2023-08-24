@@ -38,6 +38,7 @@ sponsors:
 #    width: 1
 friends:
     - SUORA
+    - Strix
     - Vanilla Reply
     - Yet. Another. Agency!
     - Winkelwagen 
