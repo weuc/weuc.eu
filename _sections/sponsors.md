@@ -16,10 +16,10 @@ sponsors:
     logo: assets/img/sponsors/innogames.png
     link: https://www.innogames.com
     width: 1
-#  - name: econda
-#    logo: assets/img/sponsors/econda.png
-#    link: https://www.econda.de
-#    width: 1
+  - name: thePHPcc
+    logo: assets/img/sponsors/thephpcc.png
+    link: https://thephp.cc/welcome
+    width: 1
   - name: ScaleCommerce
     logo: assets/img/sponsors/scalecommerce.png
     link: https://scale.sc
