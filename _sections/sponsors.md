@@ -17,7 +17,7 @@ sponsors:
     link: https://www.innogames.com
     width: 1
   - name: thePHPcc
-    logo: assets/img/sponsors/thephpcc.png
+    logo: assets/img/sponsors/thephpcc.svg
     link: https://thephp.cc/welcome
     width: 1
   - name: ScaleCommerce
