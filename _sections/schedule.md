@@ -1,6 +1,6 @@
 ---
 order: 1
 navtitle: Schedule
-active: false
+active: true
 template: sections/schedule.html
 ---
