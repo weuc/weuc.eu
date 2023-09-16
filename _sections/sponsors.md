@@ -16,6 +16,10 @@ sponsors:
     logo: assets/img/sponsors/innogames.png
     link: https://www.innogames.com
     width: 1
+  - name: Beratung Judith Andresen
+    logo: assets/img/sponsors/bja.png
+    link: https://www.judithandresen.com
+    width: 1
   - name: thePHPcc
     logo: assets/img/sponsors/thephpcc.svg
     link: https://thephp.cc/welcome
@@ -28,18 +32,14 @@ sponsors:
     logo: assets/img/sponsors/mxkmj.png
     link: https://dashboardhub.io
     width: 1
-#  - name: Beratung Judith Andresen
-#    logo: assets/img/sponsors/bja.png
-#    link: https://www.judithandresen.com
-#    width: 1
 #  - name: Storyblok
 #    logo: assets/img/sponsors/storyblok.svg
 #    link: https://https://www.storyblok.com
 #    width: 1
 friends:
-    - SUORA
-    - Strix
-    - Vanilla Reply
-    - Yet. Another. Agency!
-    - Winkelwagen 
+  - SUORA
+  - Strix
+  - Vanilla Reply
+  - Yet. Another. Agency!
+  - Winkelwagen 
 ---
