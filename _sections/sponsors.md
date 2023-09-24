@@ -39,6 +39,7 @@ sponsors:
 friends:
   - SUORA
   - Strix
+  - dreikern
   - Vanilla Reply
   - Yet. Another. Agency!
   - Winkelwagen 
