@@ -1,6 +1,6 @@
 ---
 order: 1
-navtitle: Schedule
+navtitle: 2023 Schedule
 active: true
 template: sections/schedule.html
 ---
