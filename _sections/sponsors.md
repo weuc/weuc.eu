@@ -1,6 +1,6 @@
 ---
 order: 5
-navtitle: Sponsors
+navtitle: Last Year´s Sponsors
 active: true
 template: sections/sponsors.html
 sponsors:
