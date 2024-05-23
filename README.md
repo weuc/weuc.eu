@@ -16,6 +16,5 @@ Configuration file: /srv/jekyll/_config.yml
   Server running... press ctrl-c to stop.
   ```
 
-  The site is then availabe under http://127.0.0.1/
+  The site is then available under http://127.0.0.1:4000/
 
-  
