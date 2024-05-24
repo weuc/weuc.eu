@@ -26,7 +26,7 @@ faq:
       
   - question: Who is organizing this event?
     answer: |
-      Besides those friendly faces in the people section, this event operator is boot e.V. - Best of Open Technologies. The purpose of this association is the promotion of education, research and science in the field of open information and communication technology, in particular open source software. One main field is organizing several events within open source technologies. One event was the former PHPucEU – PHP Unconference Europe – and since 3 years we are happy to go together on with WEUC – Web Engineering Unconference. Our work in organization and other fields are unpaid and we do not have commercial targets.
+      Besides those friendly faces in the people section, this event operator is boot e.V. - Best of Open Technologies. The purpose of this association is the promotion of education, research and science in the field of open information and communication technology, in particular open source software. One main field is organizing several events within open source technologies. One event was the former PHPucEU – PHP Unconference Europe – and since 4 years we are happy to go together on with WEUC – Web Engineering Unconference. Our work in organization and other fields are unpaid and we do not have commercial targets.
 
   - question: Will there be some spare time for sightseeing?
     answer: |
