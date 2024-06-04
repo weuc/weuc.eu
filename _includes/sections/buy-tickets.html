@@ -17,7 +17,13 @@
         <div class="card mb-5 mb-lg-0">
           <div class="card-body">
             <h5 class="card-title text-muted text-uppercase text-center">{{ ticket.name }}</h5>
+            {% if ticket.discount %}
+            <h3 class="card-discount-price text-center">{{ ticket.price }}</h3>
+            <h3 class="card-price text-center text-red">{{ ticket.discountPrice }}</h3>
+            <h5 class="card-discount text-center text-uppercase"><span class="card-title text-muted">Code:</span> <span class="card-discount-code">{{ ticket.discount }}</span></h5>
+            {% else %}
             <h6 class="card-price text-center">{{ ticket.price }}</h6>
+            {% endif %}
             <hr>
             <ul class="fa-ul">
               {% for item in ticket.included %}

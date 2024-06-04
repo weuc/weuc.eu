@@ -1,12 +1,14 @@
 ---
 order: 4
 navtitle: Buy Tickets
-active: false
+active: true
 template: sections/buy-tickets.html
 tickets:
   - name: Personal Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2023
+    titoEvent: phpuceu/web-engineering-unconference-2024
     price: €189
+    discount: EarlyBird
+    discountPrice: €170.10
     active: true
     tito-release: personal-ticket
     included:
@@ -19,8 +21,10 @@ tickets:
     not-included:
       - Company pays for ticket
   - name: Company Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2023
+    titoEvent: phpuceu/web-engineering-unconference-2024
     price: €299
+    discount: EarlyBird
+    discountPrice: €269.10
     active: true
     tito-release: company-ticket
     included:
@@ -32,8 +36,10 @@ tickets:
       - Company pays for ticket
       - Cancel for free until one week before
   - name: Team Spirit Ticket (buy 3!)
-    titoEvent: phpuceu/web-engineering-unconference-2023
+    titoEvent: phpuceu/web-engineering-unconference-2024
     price: €266.33 (x3)
+    discount: EarlyBird
+    discountPrice: €239.70 (x3)
     active: true
     tito-release: team-spirit-3-people
     included:
@@ -44,42 +50,12 @@ tickets:
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
       - Cancel for free until one week before
-  - name: How to set up successful + inspiring meetings + workshops! - Judith
-    titoEvent: phpuceu/ws-weuc2023
-    tito-release: ws-judith-team-organization-for-absences-of-team-mates
-    active: true
-    price: €79
-#    status: comingsoon
-    included:
-      - Workshop access on Friday
-      - Welcome drink Friday evening
-      - Company pays for ticket
-      - Cancel for free until one week before
-    not-included:
-      - Conference access on both Days<br>Saturday & Sunday
-      - Coffee break during conference
-      - Lunch break during conference
-      - Dinner on Saturday evening
-  - name: "Event Patterns: how to turn sticky notes into software - Stefan"
-    titoEvent: phpuceu/ws-weuc2023
-    tito-release: vbefk-qjzfc
-    active: true
-    price: €79
-#    status: comingsoon
-    included:
-      - Workshop access on Friday
-      - Welcome drink Friday evening
-      - Company pays for ticket
-      - Cancel for free until one week before
-    not-included:
-      - Conference access on both Days<br>Saturday & Sunday
-      - Coffee break during conference
-      - Lunch break during conference
-      - Dinner on Saturday evening
   - name: Food and drinks for partners
-    titoEvent: phpuceu/web-engineering-unconference-2023
+    titoEvent: phpuceu/web-engineering-unconference-2024
     active: true
     price: €89
+    discount: EarlyBird
+    discountPrice: €80.10
     tito-release: food-drinks-for-your-partner
     included:
         - Welcome drink Friday evening
@@ -88,9 +64,11 @@ tickets:
     not-included:
         - Conference access on both Days<br>Saturday & Sunday
   - name: Kids Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2023
+    titoEvent: phpuceu/web-engineering-unconference-2024
     active: true
     price: Free
+    discount:
+    discountPrice:  
     tito-release: kids-for-free
     included:
         - If you travel with your kids we warmly invite them to join you. Please register them with a free of charge ticket.        
