@@ -17,7 +17,6 @@ tickets:
       - Coffee break during conference
       - Lunch break during conference
       - Dinner on Saturday evening
-      - Cancel for free until one week before
     not-included:
       - Company pays for ticket
   - name: Company Ticket
@@ -34,7 +33,6 @@ tickets:
       - Lunch break during conference
       - Dinner on Saturday evening
       - Company pays for ticket
-      - Cancel for free until one week before
   - name: Team Spirit Ticket (buy 3!)
     titoEvent: phpuceu/web-engineering-unconference-2024
     price: €266.33 (x3)
@@ -49,7 +47,6 @@ tickets:
       - 3 x Lunch break during conference 
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
-      - Cancel for free until one week before
   - name: Food and drinks for partners
     titoEvent: phpuceu/web-engineering-unconference-2024
     active: true
@@ -60,7 +57,6 @@ tickets:
     included:
         - Welcome drink Friday evening
         - Dinner on Saturday evening
-        - Cancel for free until one week before
     not-included:
         - Conference access on both Days<br>Saturday & Sunday
   - name: Kids Ticket
