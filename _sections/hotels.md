@@ -1,7 +1,7 @@
 ---
 order: 7
 navtitle: Hotels
-active: false
+active: true
 template: sections/hotels.html
 hotels:
   - name: Innside Palma Bosque
