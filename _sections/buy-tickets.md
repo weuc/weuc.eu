@@ -7,7 +7,7 @@ tickets:
   - name: Personal Ticket
     titoEvent: phpuceu/web-engineering-unconference-2024
     price: €189
-    discount: EarlyBird
+    discount: Summer10
     discountPrice: €170.10
     active: true
     tito-release: personal-ticket
@@ -22,7 +22,7 @@ tickets:
   - name: Company Ticket
     titoEvent: phpuceu/web-engineering-unconference-2024
     price: €299
-    discount: EarlyBird
+    discount: Summer10
     discountPrice: €269.10
     active: true
     tito-release: company-ticket
@@ -36,7 +36,7 @@ tickets:
   - name: Team Spirit Ticket (buy 3!)
     titoEvent: phpuceu/web-engineering-unconference-2024
     price: €266.33 (x3)
-    discount: EarlyBird
+    discount: Summer10
     discountPrice: €239.70 (x3)
     active: true
     tito-release: team-spirit-3-people
@@ -51,7 +51,7 @@ tickets:
     titoEvent: phpuceu/web-engineering-unconference-2024
     active: true
     price: €89
-    discount: EarlyBird
+    discount: Summer10
     discountPrice: €80.10
     tito-release: food-drinks-for-your-partner
     included:
