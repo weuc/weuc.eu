@@ -29,6 +29,11 @@ hotels:
     image: hotel5.jpg
     stars: 4
     distance: 0,6km from the venue
+  - name: Be Live Adults Only
+    link: https://www.belivehotels.com/de/hotels-mallorca/be-live-adults-only-marivent/
+    image: hotel7.jpg
+    stars: 4
+    distance: 3,9km from the venue    
   - name: Hotel Araxa
     link: https://www.hotelaraxa.com/
     image: hotel6.jpg
