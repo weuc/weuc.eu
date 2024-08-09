@@ -16,10 +16,10 @@ sponsors:
     logo: assets/img/sponsors/2024/innogames.png
     link: https://www.innogames.com
     width: 1
-#  - name: Shopware
-#   logo: assets/img/sponsors/shopware.png
-#   link: https://www.shopware.com
-#   width: 1
+  - name: Shopware
+    logo: assets/img/sponsors/shopware.png
+    link: https://www.shopware.com
+    width: 1
 # - name: NFQ Asia
 #   logo: assets/img/sponsors/nfq.asia.png
 #   link: https://www.nfq.asia
