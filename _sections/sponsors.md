@@ -4,21 +4,25 @@ navtitle: Sponsors
 active: true
 template: sections/sponsors.html
 sponsors:
+  - name: Shopware
+    logo: assets/img/sponsors/shopware.png
+    link: https://www.shopware.com
+    width: 1
   - name: Seidemann Web
     logo: assets/img/sponsors/2024/seidemann-web.jpeg
     link: https://seidemann-web.com
-    width: 1  
-  - name: YAA
-    logo: assets/img/sponsors/2024/yaa.png
-    link: https://www.yaa.dev
+    width: 1
+  - name: web'n'sale
+    logo: assets/img/sponsors/2024/webnsale.svg
+    link: https://webnsale.com
     width: 1
   - name: InnoGames
     logo: assets/img/sponsors/2024/innogames.png
     link: https://www.innogames.com
-    width: 1
-  - name: Shopware
-    logo: assets/img/sponsors/shopware.png
-    link: https://www.shopware.com
+    width: 1    
+  - name: YAA
+    logo: assets/img/sponsors/2024/yaa.png
+    link: https://www.yaa.dev
     width: 1
 # - name: NFQ Asia
 #   logo: assets/img/sponsors/nfq.asia.png
