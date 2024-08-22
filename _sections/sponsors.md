@@ -24,6 +24,10 @@ sponsors:
     logo: assets/img/sponsors/2024/yaa.png
     link: https://www.yaa.dev
     width: 1
+  - name: Suora
+    logo: assets/img/sponsors/2024/suora.svg
+    link: https://www.suora.com
+    width: 1
 # - name: NFQ Asia
 #   logo: assets/img/sponsors/nfq.asia.png
 #   link: https://www.nfq.asia
