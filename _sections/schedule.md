@@ -1,6 +1,6 @@
 ---
 order: 1
-navtitle: Last Year´s Schedule
+navtitle: Schedule
 active: true
 template: sections/schedule.html
 ---
