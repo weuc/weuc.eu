@@ -1,5 +1,5 @@
 ---
-order: 11
+order: 10
 navtitle: Gallery
 active: true
 template: sections/gallery.html

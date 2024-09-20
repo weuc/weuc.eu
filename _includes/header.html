@@ -53,6 +53,7 @@ Header
     <nav id="nav-menu-container">
       <ul class="nav-menu">
         {% assign sections = site.sections | sort: 'order' %}
+
         {% for section in sections %}
           {% if section.navtitle == nil or section.active != true %}
             {% continue %}
@@ -63,6 +64,9 @@ Header
             <li class="buy-tickets"><a href="#{{ section.slug }}">{{ section.navtitle }}</a></li>
           {% else %}
             <li><a href="#{{ section.slug }}">{{ section.navtitle }}</a></li>
+          {% endif %}
+          {% if section.order == 1 %}
+            <li class="whatsapp"><a target="_blank" href="https://chat.whatsapp.com/Lh8uwdZOAAm83edA5frnZG">WhatsApp</a></li>
           {% endif %}
         {% endfor %}
       </ul>
