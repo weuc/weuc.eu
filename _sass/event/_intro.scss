@@ -15,7 +15,7 @@
   @media (min-width: 1024px) {
     background-attachment: fixed;
   }
- 
+
   &:before {
     content: "";
     background: rgba($heading-color, 0.3);
@@ -49,7 +49,7 @@
     font-size: 56px;
     font-weight: 600;
     text-transform: uppercase;
-    
+
     span {
       color: $accent-color;
     }
@@ -149,6 +149,27 @@
 
     &:hover {
       background: $accent-color;
+      color: #fff;
+    }
+  }
+
+  .whatsapp-btn {
+    font-family: $heading-font;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 32px;
+    border-radius: 50px;
+    transition: 0.5s;
+    line-height: 1;
+    margin: 10px;
+    color: #fff;
+    animation-delay: 0.8s;
+    border: 2px solid $whatsapp-color;
+
+    &:hover {
+      background: $whatsapp-color;
       color: #fff;
     }
   }

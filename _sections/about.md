@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 3
 navtitle: About
 active: true
 template: sections/about.html
