@@ -39,6 +39,8 @@
               <button type="button" class="btn" style="background-color: #999999;">Sold out</button>
               {% elsif ticket.status == 'comingsoon' %}
               <button type="button" class="btn" style="background-color: #f6f7fd;color: #101522;">Coming soon</button>
+              {% elsif ticket.status == 'waitinglist' %}
+              <tito-button event="{{ ticket.titoEvent }}" releases="{{ ticket.tito-release }}">Join Waiting List</tito-button>
               {% else %}
               <tito-button event="{{ ticket.titoEvent }}" releases="{{ ticket.tito-release }}">Buy Now</tito-button>
               {% endif %}

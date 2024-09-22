@@ -5,11 +5,12 @@ active: true
 template: sections/buy-tickets.html
 tickets:
   - name: Personal Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2024
+    titoEvent: phpuceu/web-engineering-unconference-2025
     price: €189
     discount:
     discountPrice:
     active: true
+    status: waitinglist
     tito-release: personal-ticket
     included:
       - Welcome drink Friday evening
@@ -20,11 +21,12 @@ tickets:
     not-included:
       - Company pays for ticket
   - name: Company Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2024
+    titoEvent: phpuceu/web-engineering-unconference-2025
     price: €299
     discount:
     discountPrice:
     active: true
+    status: waitinglist
     tito-release: company-ticket
     included:
       - Welcome drink Friday evening
@@ -34,11 +36,12 @@ tickets:
       - Dinner on Saturday evening
       - Company pays for ticket
   - name: Team Spirit Ticket (buy 3!)
-    titoEvent: phpuceu/web-engineering-unconference-2024
+    titoEvent: phpuceu/web-engineering-unconference-2025
     price: €266.33 (x3)
     discount:
     discountPrice:
     active: true
+    status: waitinglist
     tito-release: team-spirit-3-people
     included:
       - 3 x Welcome drink Friday evening
@@ -48,8 +51,8 @@ tickets:
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
   - name: Food and drinks for partners
-    titoEvent: phpuceu/web-engineering-unconference-2024
-    active: true
+    titoEvent: phpuceu/web-engineering-unconference-2025
+    active: false
     price: €89
     discount: 
     discountPrice: 
@@ -60,8 +63,8 @@ tickets:
     not-included:
         - Conference access on both Days<br>Saturday & Sunday
   - name: Kids Ticket
-    titoEvent: phpuceu/web-engineering-unconference-2024
-    active: true
+    titoEvent: phpuceu/web-engineering-unconference-2025
+    active: false
     price: Free
     discount:
     discountPrice:  
