@@ -5,13 +5,13 @@ active: true
 template: sections/about.html
 
 where: |
-  TBD,
+  Meliá Hotel Innside Bosque,<br>
   Palma de Mallorca  
   Spain
 
 when: |
-  TBD,
-  2025
+  Friday to Sunday  
+  September 26th - 28th, 2025
 
 who: |
   BOOT e.V.
