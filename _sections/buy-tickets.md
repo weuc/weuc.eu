@@ -7,10 +7,10 @@ tickets:
   - name: Personal Ticket
     titoEvent: phpuceu/web-engineering-unconference-2025
     price: €189
-    discount:
-    discountPrice:
+    discount: EarlyBird
+    discountPrice: €170.10
     active: true
-    status: waitinglist
+    # status: waitinglist | comingsoon 
     tito-release: personal-ticket
     included:
       - Welcome drink Friday evening
@@ -23,10 +23,10 @@ tickets:
   - name: Company Ticket
     titoEvent: phpuceu/web-engineering-unconference-2025
     price: €299
-    discount:
-    discountPrice:
+    discount: EarlyBird
+    discountPrice: €269.10
     active: true
-    status: waitinglist
+    # status: waitinglist | comingsoon 
     tito-release: company-ticket
     included:
       - Welcome drink Friday evening
@@ -38,10 +38,10 @@ tickets:
   - name: Team Spirit Ticket (buy 3!)
     titoEvent: phpuceu/web-engineering-unconference-2025
     price: €266.33 (x3)
-    discount:
-    discountPrice:
+    discount: EarlyBird
+    discountPrice: €239.70 (x3)
     active: true
-    status: waitinglist
+    # status: waitinglist | comingsoon 
     tito-release: team-spirit-3-people
     included:
       - 3 x Welcome drink Friday evening
@@ -52,10 +52,10 @@ tickets:
       - Company pays for ticket
   - name: Food and drinks for partners
     titoEvent: phpuceu/web-engineering-unconference-2025
-    active: false
+    active: true
     price: €89
-    discount: 
-    discountPrice: 
+    discount: EarlyBird
+    discountPrice: €80.10
     tito-release: food-drinks-for-your-partner
     included:
         - Welcome drink Friday evening
@@ -64,7 +64,7 @@ tickets:
         - Conference access on both Days<br>Saturday & Sunday
   - name: Kids Ticket
     titoEvent: phpuceu/web-engineering-unconference-2025
-    active: false
+    active: true
     price: Free
     discount:
     discountPrice:  
