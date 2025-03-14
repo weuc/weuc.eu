@@ -50,6 +50,24 @@ tickets:
       - 3 x Lunch break during conference 
       - 3 x Dinner on Saturday evening
       - Company pays for ticket
+  - name: Friends of WeUC
+    titoEvent: phpuceu/web-engineering-unconference-2025
+    price: €500
+    discount:
+    discountPrice:
+    active: true
+    # status: waitinglist | comingsoon 
+    tito-release: friends-of-weuc-ticket
+    included:
+      - Welcome drink Friday evening
+      - Conference access on both days<br>Saturday & Sunday
+      - Coffee break during conference
+      - Lunch break during conference
+      - Dinner on Saturday evening
+      - Mentioned in every email
+      - Mentioned on the website
+      - Good karma
+    not-included:
   - name: Food and drinks for partners
     titoEvent: phpuceu/web-engineering-unconference-2025
     active: true
