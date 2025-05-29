@@ -8,6 +8,10 @@ sponsors:
      logo: assets/img/sponsors/2025/maxcluster.svg
      link: https://maxcluster.de/
      width: 1
+   - name: shopware
+     logo: assets/img/sponsors/2025/shopware.png
+     link: https://www.shopware.com/en/
+     width: 1
 #  - name: Shopware
 #    logo: assets/img/sponsors/shopware.png
 #    link: https://www.shopware.com
