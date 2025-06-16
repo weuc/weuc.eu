@@ -28,10 +28,10 @@ sponsors:
 #    logo: assets/img/sponsors/2024/innogames.png
 #    link: https://www.innogames.com
 #    width: 1    
-#  - name: YAA
-#    logo: assets/img/sponsors/2024/yaa.png
-#    link: https://www.yaa.dev
-#    width: 1
+   - name: YAA
+     logo: assets/img/sponsors/2025/yaa.png
+     link: https://www.yaa.dev
+     width: 1
 #  - name: Suora
 #    logo: assets/img/sponsors/2024/suora.svg
 #    link: https://www.suora.com
@@ -61,4 +61,6 @@ sponsors:
 #    link: https://https://www.storyblok.com
 #    width: 1
 friends:
+  - Stefan Priebsch
+  - Judith Andresen
 ---
