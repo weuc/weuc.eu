@@ -27,7 +27,7 @@ sponsors:
 #  - name: InnoGames
 #    logo: assets/img/sponsors/2024/innogames.png
 #    link: https://www.innogames.com
-#    width: 1    
+#    width: 1
    - name: YAA
      logo: assets/img/sponsors/2025/yaa.png
      link: https://www.yaa.dev
@@ -40,14 +40,14 @@ sponsors:
 #   logo: assets/img/sponsors/nfq.asia.png
 #   link: https://www.nfq.asia
 #   width: 1
-#  - name: Beratung Judith Andresen
-#   logo: assets/img/sponsors/bja.png
-#   link: https://www.judithandresen.com
-#   width: 1
-#  - name: thePHPcc
-#    logo: assets/img/sponsors/thephpcc.svg
-#    link: https://thephp.cc/welcome
-#    width: 1
+   - name: Beratung Judith Andresen
+     logo: assets/img/sponsors/bja.png
+     link: https://www.judithandresen.com
+     width: 1
+   - name: thePHPcc
+     logo: assets/img/sponsors/thephpcc.svg
+     link: https://thephp.cc/welcome
+     width: 1
 #  - name: ScaleCommerce
 #    logo: assets/img/sponsors/scalecommerce.png
 #    link: https://scale.sc
@@ -61,6 +61,6 @@ sponsors:
 #    link: https://https://www.storyblok.com
 #    width: 1
 friends:
-  - Stefan Priebsch
-  - Judith Andresen
+#  - Stefan Priebsch
+#  - Judith Andresen
 ---
