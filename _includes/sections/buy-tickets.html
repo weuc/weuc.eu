@@ -50,6 +50,78 @@
       </div>
     {% endfor %}
     </div>
+    <div class="section-header mt-5">
+      <h2>Workshops</h2>
+      <p>
+        On Friday, September 26, from 15:30 to 18:45, we’ll be offering two
+        exclusive workshops – both happening at the conference hotel.
+      </p>
+    </div>
+    <div class="row">
+      {% for workshop in section.workshops %}
+
+      <div class="col-lg-6">
+        <div class="card mb-5 mb-lg-0">
+          <div class="card-body">
+            <h5 class="card-title text-muted text-uppercase text-center">
+              {{ workshop.name }}
+            </h5>
+            {% if workshop.price %}
+            <h6 class="card-price text-center">{{ workshop.price }}</h6>
+            {% endif %}
+            <hr />
+            {% if workshop.speakers %} {% endif %} {% if workshop.abstract %}
+            <div class="workshop-abstract">
+              <p>{{ workshop.abstract | markdownify }}</p>
+            </div>
+            {% endif %}
+            <div class="workshop-speakers mb-3">
+              {% for speaker in workshop.speakers %}
+              <div class="workshop-speaker mb-2">
+                <img
+                  class="workshop-speaker-photo"
+                  src="/assets/img/speaker/{{ speaker.firstName | downcase }}.jpg"
+                  alt="{{ speaker.firstName }} {{ speaker.lastName }}"
+                  style="
+                    width: 48px;
+                    height: 48px;
+                    border-radius: 50%;
+                    object-fit: cover;
+                    margin-right: 8px;
+                  "
+                />
+                <strong>{{ speaker.firstName }} {{ speaker.lastName }}</strong>
+                {% if speaker.companyName and speaker.companyUrl %}
+                <span class="text-muted"
+                  >from
+                  <a href="{{ speaker.companyUrl }}" target="_blank"
+                    >{{ speaker.companyName }}</a
+                  ></span
+                >
+                {% elsif speaker.companyName %}
+                <span class="text-muted">from {{ speaker.companyName }}</span>
+                {% endif %} {% if speaker.bio %}
+                <div class="workshop-speaker-bio small mt-1">
+                  {{ speaker.bio | markdownify }}
+                </div>
+                {% endif %}
+              </div>
+              {% endfor %}
+            </div>
+
+            <div class="text-center mt-3">
+              <tito-button
+                event="{{ section.titoEvent }}"
+                releases="{{ workshop.tito-release }}"
+                >Buy Now</tito-button
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {% endfor %}
+    </div>
 
   </div>
 
