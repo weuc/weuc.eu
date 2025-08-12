@@ -24,10 +24,10 @@ sponsors:
 #    logo: assets/img/sponsors/2024/seidemann-web.jpeg
 #    link: https://seidemann-web.com
 #    width: 1
-#  - name: web'n'sale
-#    logo: assets/img/sponsors/2024/webnsale.svg
-#    link: https://webnsale.com
-#    width: 1
+   - name: web'n'sale
+     logo: assets/img/sponsors/2024/webnsale.svg
+     link: https://webnsale.com
+     width: 1
 #  - name: InnoGames
 #    logo: assets/img/sponsors/2024/innogames.png
 #    link: https://www.innogames.com
