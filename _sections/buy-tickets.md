@@ -1,7 +1,7 @@
 ---
 order: 3
 navtitle: Buy Tickets
-active: true
+active: false
 template: sections/buy-tickets.html
 titoEvent: phpuceu/web-engineering-unconference-2025
 workshops:
